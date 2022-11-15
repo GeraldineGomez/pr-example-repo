@@ -1,4 +1,4 @@
-# ResearchFish investigation - PR Example
+# ResearchFish investigation: PR Example
 
 # Purpose
 
